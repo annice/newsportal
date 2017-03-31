@@ -1,0 +1,428 @@
+[
+    {
+        "section": "Politics",
+        "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170329184927-mark-warner-richard-burr-march-29-2017-small-tease.jpg",
+        "top_stories": [
+            {
+                "section": "politics",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170329184927-mark-warner-richard-burr-march-29-2017-small-tease.jpg",
+                "id": 0,
+                "link": "http://www.cnn.com/2017/03/30/politics/senate-intelligence-committee-hearing-russia/index.html",
+                "title": "Senate hearing: Russian meddling did not stop at the election",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "politics",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170329184927-mark-warner-richard-burr-march-29-2017-small-tease.jpg",
+                "id": 1,
+                "link": "http://www.cnn.com/2017/03/30/politics/freedom-caucus-trump-tweet/index.html",
+                "title": "Trump tweets about Freedom Caucus: 'We must fight them, & Dems'",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "politics",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170329184927-mark-warner-richard-burr-march-29-2017-small-tease.jpg",
+                "id": 2,
+                "link": "http://www.cnn.com/2017/03/29/politics/april-ryan-sean-spicer-trump-presidency/index.html",
+                "title": "April Ryan asked the most important question of the Trump presidency",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "politics",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170329184927-mark-warner-richard-burr-march-29-2017-small-tease.jpg",
+                "id": 3,
+                "link": "http://www.cnn.com/2017/03/29/politics/kushner-meeting-russian-bank/index.html",
+                "title": "Source: Kushner meeting with Russian bank exec was to 'engage with' Russia",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "politics",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170329184927-mark-warner-richard-burr-march-29-2017-small-tease.jpg",
+                "id": 4,
+                "link": "http://www.cnn.com/2017/03/30/politics/trump-outlook/index.html",
+                "title": "Trump's outlook going from bad to worse",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "section": "",
+        "main_img": "",
+        "top_stories": []
+    },
+    {
+        "section": "Opinion",
+        "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/141204180047-15-week-in-photos-1205-hp-video.jpg",
+        "top_stories": [
+            {
+                "section": "opinion",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/141204180047-15-week-in-photos-1205-hp-video.jpg",
+                "id": 0,
+                "link": "http://www.cnn.com/2017/03/30/opinions/war-on-coal-mining-michaels/index.html",
+                "title": "Greed and genius -- not Obama plan -- led to coal's decline",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "opinion",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/141204180047-15-week-in-photos-1205-hp-video.jpg",
+                "id": 1,
+                "link": "http://www.cnn.com/2017/03/29/opinions/stop-shaming-poor-for-being-poor-bailey/index.html",
+                "title": "Stop shaming poor people for being poor",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "opinion",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/141204180047-15-week-in-photos-1205-hp-video.jpg",
+                "id": 2,
+                "link": "http://www.cnn.com/2017/03/30/opinions/i-stand-with-us-womens-hockey-vie-opinion/index.html",
+                "title": "US Women's Hockey team shoots for equality -- and scores",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "opinion",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/141204180047-15-week-in-photos-1205-hp-video.jpg",
+                "id": 3,
+                "link": "http://www.cnn.com/2017/03/21/opinions/ivanka-move-west-wing-opinion-hossain/index.html",
+                "title": "Ivanka's role raises red flags",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "opinion",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/141204180047-15-week-in-photos-1205-hp-video.jpg",
+                "id": 4,
+                "link": "http://www.cnn.com/2017/03/29/opinions/oreilly-spicer-black-women-clarke/index.html",
+                "title": "Bill O'Reilly offended all Americans",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "opinion",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/141204180047-15-week-in-photos-1205-hp-video.jpg",
+                "id": 5,
+                "link": "http://www.cnn.com/2017/03/29/opinions/pay-to-stay-jails-cevallos-opinion/index.html",
+                "title": "What $100 can buy you in jail might surprise you",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "section": "Health",
+        "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170330114556-bess-jensen-baby-rocker-small-tease.jpg",
+        "top_stories": [
+            {
+                "section": "health",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170330114556-bess-jensen-baby-rocker-small-tease.jpg",
+                "id": 0,
+                "link": "http://www.cnn.com/2017/03/30/health/iyw-nebraska-baby-rockers-trnd/index.html",
+                "title": "Babies alone in hospital get love from volunteers",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "health",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170330114556-bess-jensen-baby-rocker-small-tease.jpg",
+                "id": 1,
+                "link": "http://www.cnn.com/2017/03/29/health/how-much-exercise-metzl/index.html",
+                "title": "How much exercise do I really need?",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "health",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170330114556-bess-jensen-baby-rocker-small-tease.jpg",
+                "id": 2,
+                "link": "http://www.cnn.com/2017/03/30/health/posture-teching-care-of-health-crane/index.html",
+                "title": "Electronic nagging to improve your posture",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "health",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170330114556-bess-jensen-baby-rocker-small-tease.jpg",
+                "id": 3,
+                "link": "http://www.cnn.com/2017/03/30/health/anger-room-stress-relief/index.html",
+                "title": "Take out your anger in a rage room",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "health",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170330114556-bess-jensen-baby-rocker-small-tease.jpg",
+                "id": 4,
+                "link": "http://www.cnn.com/2016/02/03/health/mary-ingalls-blind-little-house-on-prairie/index.html",
+                "title": "The real reason Mary Ingalls went blind",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "section": "Sports",
+        "top_stories": [
+            {
+                "section": "sports",
+                "id": 0,
+                "link": "http://www.cnn.comhttp://bleacherreport.com/articles/2698483-ranking-the-top-10-players-to-watch-in-the-2017-final-four?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial",
+                "title": "Top 10 players in the Final Four",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "sports",
+                "id": 1,
+                "link": "http://www.cnn.comhttp://bleacherreport.com/articles/2701006-lebron-james-passes-shaquille-oneal-for-7th-on-nbas-all-time-scoring-list?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial",
+                "title": "LeBron passes Shaq on scoring list",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "sports",
+                "id": 2,
+                "link": "http://www.cnn.comhttp://bleacherreport.com/articles/2700295-justin-jackson-has-the-north-carolina-brotherhood-on-the-brink-of-a-championship?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial",
+                "title": "Family-oriented CBB star on cusp of his dreams",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "sports",
+                "id": 3,
+                "link": "http://www.cnn.comhttp://bleacherreport.com/articles/2700551-nba-mock-draft-justin-jackson-trending-up-after-march-madness-breakout?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial",
+                "title": "NBA mock draft entering Final Four",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "sports",
+                "id": 4,
+                "link": "http://www.cnn.comhttp://bleacherreport.com/articles/2699686-brady-aiken-rejected-5m-and-got-hurt-now-past-no-1-pick-fights-for-mlb-future?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial",
+                "title": "Gamble cost No. 1 pick millions, MLB future uncertain",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "section": "Entertainment",
+        "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170328120408-abby-lee-miller-dance-moms-small-tease.jpg",
+        "top_stories": [
+            {
+                "section": "entertainment",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170328120408-abby-lee-miller-dance-moms-small-tease.jpg",
+                "id": 0,
+                "link": "http://www.cnn.com/2017/03/30/entertainment/dance-moms-abby-lee-miller/index.html",
+                "title": "Abby Lee Miller suddenly exits 'Dance Moms'",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "entertainment",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170328120408-abby-lee-miller-dance-moms-small-tease.jpg",
+                "id": 1,
+                "link": "http://www.cnn.com/2017/03/30/entertainment/buffy-vampire-slayer-reunion/index.html",
+                "title": "'Buffy' photo reunion revives Angel vs. Spike debate",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "entertainment",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170328120408-abby-lee-miller-dance-moms-small-tease.jpg",
+                "id": 2,
+                "link": "http://www.cnn.com/2017/03/30/entertainment/the-boss-baby-review/index.html",
+                "title": "'The Boss Baby' doesn't milk enough laughs",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "entertainment",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170328120408-abby-lee-miller-dance-moms-small-tease.jpg",
+                "id": 3,
+                "link": "http://www.cnn.com/2017/03/29/entertainment/lamar-odom-khloe-kardashian/index.html",
+                "title": "Lamar Odom is sober and full of regret",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "entertainment",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170328120408-abby-lee-miller-dance-moms-small-tease.jpg",
+                "id": 4,
+                "link": "http://www.cnn.comhttp://money.cnn.com/2017/03/29/media/writers-strike-wga-2017/index.html",
+                "title": "Hollywood's writers might be headed for a strike",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "section": "Travel",
+        "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170327120954-castle-stays-ashford-castle-small-tease.jpg",
+        "top_stories": [
+            {
+                "section": "travel",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170327120954-castle-stays-ashford-castle-small-tease.jpg",
+                "id": 0,
+                "link": "http://www.cnn.com/2017/03/30/hotels/best-castle-hotels/index.html",
+                "title": "15 of the world's best castle stays",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "travel",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170327120954-castle-stays-ashford-castle-small-tease.jpg",
+                "id": 1,
+                "link": "http://www.cnn.com/2017/03/27/hotels/most-beautiful-island-hotels/index.html",
+                "title": "The world's most beautiful island hotels",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "travel",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170327120954-castle-stays-ashford-castle-small-tease.jpg",
+                "id": 2,
+                "link": "http://www.cnn.com/2017/03/29/travel/sony-world-photography-awards-2017-winners/index.html",
+                "title": "Award-winning photos from around the world",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "travel",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170327120954-castle-stays-ashford-castle-small-tease.jpg",
+                "id": 3,
+                "link": "http://www.cnn.com/2017/03/29/hotels/amsterdam-best-luxury-canalside-hotels/index.html",
+                "title": "12 of the best canalside hotels in Amsterdam",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "section": "Fascinating faiths",
+        "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/160921161144-jesus-statue-small-tease.jpg",
+        "top_stories": [
+            {
+                "section": "Faith & Religion",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/160921161144-jesus-statue-small-tease.jpg",
+                "id": 0,
+                "link": "http://www.cnn.com/2015/02/19/living/five-things-jesus/index.html",
+                "title": "Five things you didn't know about Jesus",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "Faith & Religion",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/160921161144-jesus-statue-small-tease.jpg",
+                "id": 1,
+                "link": "http://www.cnn.com/2017/03/30/opinions/believer-reza-aslan-santa-muerte/index.html",
+                "title": "'Saint Death' worshippers revere life ",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "Faith & Religion",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/160921161144-jesus-statue-small-tease.jpg",
+                "id": 2,
+                "link": "http://www.cnn.com/2017/03/30/us/mysterious-faces-uncovered-at-church-trnd/index.html",
+                "title": "Mysterious face revealed behind church organ",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "Faith & Religion",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/160921161144-jesus-statue-small-tease.jpg",
+                "id": 3,
+                "link": "http://www.cnn.com/videos/tv/2017/03/17/believer-reza-aslan-scientology-orig-ff.cnn",
+                "title": "Scientology, explained",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "Faith & Religion",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/160921161144-jesus-statue-small-tease.jpg",
+                "id": 4,
+                "link": "http://www.cnn.com/2017/02/16/world/finding-jesus-christianity-quiz/index.html",
+                "title": "Even a religious expert won't ace this",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            }
+        ]
+    }
+]
