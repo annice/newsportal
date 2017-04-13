@@ -1,14 +1,14 @@
 [
     {
         "section": "Politics",
-        "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170227175108-mick-mulvaney-02-27-2017-overlay-tease.jpg",
+        "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170412165521-01-carter-page-screengrab-0412-overlay-tease.jpg",
         "top_stories": [
             {
                 "section": "politics",
-                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170227175108-mick-mulvaney-02-27-2017-overlay-tease.jpg",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170412165521-01-carter-page-screengrab-0412-overlay-tease.jpg",
                 "id": 0,
-                "link": "http://www.cnn.com/2017/04/11/politics/donald-trump-budget-cuts-mick-mulvaney/index.html",
-                "title": "White House: Federal hiring freeze over, 'surgical' cuts begin",
+                "link": "http://www.cnn.com/2017/04/12/politics/carter-page-fbi-cnntv/index.html",
+                "title": "Carter Page now a 'no comment' on FBI investigations",
                 "author": "",
                 "release": "",
                 "source": "",
@@ -16,32 +16,43 @@
             },
             {
                 "section": "politics",
-                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170227175108-mick-mulvaney-02-27-2017-overlay-tease.jpg",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170412165521-01-carter-page-screengrab-0412-overlay-tease.jpg",
                 "id": 1,
+                "link": "http://www.cnn.com/2017/04/12/politics/paul-manafort-ukraine/index.html",
+                "title": "Manafort expected to file as foreign agent",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "politics",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170412165521-01-carter-page-screengrab-0412-overlay-tease.jpg",
+                "id": 2,
+                "link": "http://www.cnn.com/2017/04/12/politics/donald-trump-bashar-al-assad-butcher/index.html",
+                "title": "Trump on Assad: 'That's a butcher'",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "politics",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170412165521-01-carter-page-screengrab-0412-overlay-tease.jpg",
+                "id": 3,
+                "link": "http://www.cnn.com/2017/04/12/politics/steve-bannon-donald-trump-relationship/index.html",
+                "title": "Trump downplays 5-year Bannon relationship",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "politics",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170412165521-01-carter-page-screengrab-0412-overlay-tease.jpg",
+                "id": 4,
                 "link": "http://www.cnn.com/2017/04/11/politics/kansas-house-special-election-wichita-4th-district/index.html",
                 "title": "GOP keeps House seat in Kansas special election",
-                "author": "",
-                "release": "",
-                "source": "",
-                "content": ""
-            },
-            {
-                "section": "politics",
-                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170227175108-mick-mulvaney-02-27-2017-overlay-tease.jpg",
-                "id": 2,
-                "link": "http://www.cnn.com/2017/04/11/politics/trump-sanctuary-city-detainer/index.html",
-                "title": "Trump admin suspends controversial sanctuary city reports",
-                "author": "",
-                "release": "",
-                "source": "",
-                "content": ""
-            },
-            {
-                "section": "politics",
-                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170227175108-mick-mulvaney-02-27-2017-overlay-tease.jpg",
-                "id": 3,
-                "link": "http://www.cnn.com/2017/04/12/politics/town-hall-list-wednesday/index.html",
-                "title": "Town halls around the US on Wednesday",
                 "author": "",
                 "release": "",
                 "source": "",
@@ -50,29 +61,74 @@
         ]
     },
     {
-        "section": "",
-        "main_img": "",
-        "top_stories": []
-    },
-    {
-        "section": "Opinion",
-        "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170412153310-bannon-spicer-death-knell-bardella-opinion-overlay-tease.jpg",
+        "section": "Technology",
+        "main_img": "http://images.outbrain.com/Imaginarium/api/uuid/0099dcff3f3198e43260fcc20ed8240728e4929eab3da883790fb626b1002284/353/198/1.0",
         "top_stories": [
             {
-                "section": "opinion",
-                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170412153310-bannon-spicer-death-knell-bardella-opinion-overlay-tease.jpg",
+                "section": "tech",
+                "main_img": "http://images.outbrain.com/Imaginarium/api/uuid/0099dcff3f3198e43260fcc20ed8240728e4929eab3da883790fb626b1002284/353/198/1.0",
                 "id": 0,
-                "link": "http://www.cnn.com/2017/04/12/opinions/bannon-spicer-death-knell-bardella-opinion/index.html",
-                "title": "Bannon and Spicer, architects of their own demise",
+                "link": "http://traffic.outbrain.com/network/redir?p=2OCbTff082UVSr91KER-l1qiFFPbTvJ3RjVuykcRzFa4f5AqK0wlEuLlbpiZt_de5THF6BvzgSk-8_kRgr2bhq0jXppZWpmK7-KM12zR5KR8Lpha8qeO-iQhwG21TU9LvpkgM2Wfo5RBh9bapVSCu3H8GaoR2v_IHq7JD62jUuVAu8_8LeeThapNlN8vzOSB_CiVNz5ia5gNzbW3llbXXMoSOlo67_dw9sHtF7Pt8o1KQdGFj6htvV2E0JKjbpYVzMecibnCm-loZMq3AWcdfm5VGwvW2aNn8zDoAlmEToFhUPewXYvIZXg-JTP-VSa7FBdSUTHQ0aQ4rtHw-2khTYdUdCKEwszAon_o8Oh49_61FCjTzQTapZZnRvrFAMMju1KSe2drGNaQzmb22iqDmunroj-3Bdn300_WboBqoxTiXxj3ceZQoQBelpwrFUnxt3y1oqTl_aGBsH11PW4-b2oNYMMCo9asLO4wUbOX2fEOiX3H92lxm1tE4eZSSgcWXF3ULVT8Ll-sxRrcYVVebHyvHuJBNyT7pepRphDwH6MQrQ-yO58h5TzrurCKn1GtkxPKiIrxqVeUoFdIeO-wxRB1OeEUu5TYackEd7FvCvDggbj6OLth0Da5Qb8BKPbI_q3G6kALNmoLkqa6PTsnIo3OkpCmAbRSz4IRRDX-0JcQSJUZz0bnD8_l90U_cE0L5AgIcF289KwdHrP2XM14GTLI9LZ1itMLkvj6X2_1iL050bvrxliawprYo9bxQhFio9FDB3SH9-jVX3jRJhPiBuoSEDp9w6J_1HavGorzkX8&c=61336f31&v=3",
+                "title": "",
                 "author": "",
                 "release": "",
                 "source": "",
                 "content": ""
             },
             {
-                "section": "opinion",
-                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170412153310-bannon-spicer-death-knell-bardella-opinion-overlay-tease.jpg",
+                "section": "tech",
+                "main_img": "http://images.outbrain.com/Imaginarium/api/uuid/0099dcff3f3198e43260fcc20ed8240728e4929eab3da883790fb626b1002284/353/198/1.0",
                 "id": 1,
+                "link": "http://money.cnn.com/2017/04/12/technology/burger-king-ad-google-home/index.html?iid=ob_homepage_tech_pool",
+                "title": "",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "tech",
+                "main_img": "http://images.outbrain.com/Imaginarium/api/uuid/0099dcff3f3198e43260fcc20ed8240728e4929eab3da883790fb626b1002284/353/198/1.0",
+                "id": 2,
+                "link": "http://money.cnn.com/2017/04/12/technology/germany-hydrogen-powered-train/index.html?iid=ob_homepage_tech_pool",
+                "title": "",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "tech",
+                "main_img": "http://images.outbrain.com/Imaginarium/api/uuid/0099dcff3f3198e43260fcc20ed8240728e4929eab3da883790fb626b1002284/353/198/1.0",
+                "id": 3,
+                "link": "http://money.cnn.com/2017/04/12/technology/uber-communications-chief-rachel-whetstone-leaving/index.html?iid=ob_homepage_tech_pool",
+                "title": "",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "tech",
+                "main_img": "http://images.outbrain.com/Imaginarium/api/uuid/0099dcff3f3198e43260fcc20ed8240728e4929eab3da883790fb626b1002284/353/198/1.0",
+                "id": 4,
+                "link": "http://money.cnn.com/2017/04/07/technology/ford-crib-max/index.html?iid=ob_homepage_tech_pool",
+                "title": "",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "section": "Opinion",
+        "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/160917173913-vladimir-putin-look-right-overlay-tease.jpg",
+        "top_stories": [
+            {
+                "section": "opinion",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/160917173913-vladimir-putin-look-right-overlay-tease.jpg",
+                "id": 0,
                 "link": "http://www.cnn.com/2017/04/12/opinions/how-to-force-russias-hand-on-syria-hall/index.html",
                 "title": "The only language Putin understands on Syria",
                 "author": "",
@@ -82,7 +138,18 @@
             },
             {
                 "section": "opinion",
-                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170412153310-bannon-spicer-death-knell-bardella-opinion-overlay-tease.jpg",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/160917173913-vladimir-putin-look-right-overlay-tease.jpg",
+                "id": 1,
+                "link": "http://www.cnn.com/2017/04/12/opinions/bannon-spicer-death-knell-bardella-opinion/index.html",
+                "title": "Bannon and Spicer, architects of their own demise",
+                "author": "",
+                "release": "",
+                "source": "",
+                "content": ""
+            },
+            {
+                "section": "opinion",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/160917173913-vladimir-putin-look-right-overlay-tease.jpg",
                 "id": 2,
                 "link": "http://www.cnn.com/2017/04/12/opinions/resources-not-rhetoric-addiction-opinion-wen/index.html",
                 "title": "Drug addicts need treatment, not talk",
@@ -93,7 +160,7 @@
             },
             {
                 "section": "opinion",
-                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170412153310-bannon-spicer-death-knell-bardella-opinion-overlay-tease.jpg",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/160917173913-vladimir-putin-look-right-overlay-tease.jpg",
                 "id": 3,
                 "link": "http://www.cnn.com/2017/04/11/opinions/david-daos-united-nightmare-could-be-yours/index.html",
                 "title": "Dragged from a plane in Trump's America",
@@ -104,7 +171,7 @@
             },
             {
                 "section": "opinion",
-                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170412153310-bannon-spicer-death-knell-bardella-opinion-overlay-tease.jpg",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/160917173913-vladimir-putin-look-right-overlay-tease.jpg",
                 "id": 4,
                 "link": "http://www.cnn.com/2017/04/12/opinions/sean-spicer-holocaust-remarks-ben-ghiat/index.html",
                 "title": "Spicer's Holocaust remark part of Trump's problem",
@@ -115,7 +182,7 @@
             },
             {
                 "section": "opinion",
-                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/170412153310-bannon-spicer-death-knell-bardella-opinion-overlay-tease.jpg",
+                "main_img": "//i2.cdn.cnn.com/cnnnext/dam/assets/160917173913-vladimir-putin-look-right-overlay-tease.jpg",
                 "id": 5,
                 "link": "http://www.cnn.com/2017/04/12/opinions/can-coding-the-brain-save-or-destroy-us-finn-opinion/index.html",
                 "title": "Compelling -- and terrifying -- brain research",
@@ -193,8 +260,8 @@
             {
                 "section": "sports",
                 "id": 0,
-                "link": "http://www.cnn.comhttp://mag.bleacherreport.com/oral-history-gary-payton-shawn-kemp-seattle-supersonics/?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial",
-                "title": "Ex-NBA coach feared star played while on drugs",
+                "link": "http://bleacherreport.com/articles/2703179-tony-romos-high-school-hoops-coach-rivals-talk-about-his-old-man-gamec?utm_source=cnn.com&utm_campaign=editorial&utm_medium=referral",
+                "title": "Ex-NBAer: Tony Romo could’ve played pro hoops",
                 "author": "",
                 "release": "",
                 "source": "",
@@ -203,8 +270,8 @@
             {
                 "section": "sports",
                 "id": 1,
-                "link": "http://www.cnn.comhttp://bleacherreport.com/articles/2703179-tony-romos-high-school-hoops-coach-rivals-talk-about-his-old-man-gamec?utm_source=cnn.com&utm_campaign=editorial&utm_medium=referral",
-                "title": "Ex-NBAer: Tony Romo could’ve played in NBA",
+                "link": "http://bleacherreport.com/articles/2703382-new-york-hs-baseball-coach-arrested-for-putting-student-in-chokehold",
+                "title": "HS coach arrested for choking student",
                 "author": "",
                 "release": "",
                 "source": "",
@@ -213,8 +280,8 @@
             {
                 "section": "sports",
                 "id": 2,
-                "link": "http://www.cnn.comhttp://bleacherreport.com/articles/2703278-runner-drinks-a-beer-for-every-mile-of-half-marathon-finishes-in-under-2-hours?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial",
-                "title": "He drank 1 beer every mile of half marathon",
+                "link": "http://mag.bleacherreport.com/oral-history-gary-payton-shawn-kemp-seattle-supersonics/?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial",
+                "title": "Ex-NBA coach feared star played while on drugs",
                 "author": "",
                 "release": "",
                 "source": "",
@@ -223,8 +290,8 @@
             {
                 "section": "sports",
                 "id": 3,
-                "link": "http://www.cnn.comhttp://bleacherreport.com/articles/2703218-matt-ryan-says-hes-watched-super-bowl-51-loss-to-patriots-multiple-times?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial",
-                "title": "Falcons QB re-watched Super Bowl loss many times",
+                "link": "http://bleacherreport.com/articles/2703362-middle-tennessee-suspends-2-football-players-amid-animal-cruelty-investigation",
+                "title": "CFBers suspended, animal cruelty suspected",
                 "author": "",
                 "release": "",
                 "source": "",
@@ -233,8 +300,8 @@
             {
                 "section": "sports",
                 "id": 4,
-                "link": "http://www.cnn.comhttp://bleacherreport.com/articles/2703269-rob-manfred-wants-indians-to-transition-away-from-chief-wahoo-logo?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial",
-                "title": "MLB wants to get rid of team’s racist logo",
+                "link": "http://bleacherreport.com/articles/2703218-matt-ryan-says-hes-watched-super-bowl-51-loss-to-patriots-multiple-times?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial",
+                "title": "Falcons QB re-watched Super Bowl loss many times",
                 "author": "",
                 "release": "",
                 "source": "",

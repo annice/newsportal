@@ -111,23 +111,20 @@ all_stories.push(json);
 	/*Tech -Start*/
 	titles_links_arr=[];
 	var json = { section : "", main_img: "",top_stories:  [ {link: "",title:"",author:""}] };
-$('div[class^="column zn__column--idx-4"]').find('ul > a > h2').each(function (index, element) {
-  json.section=$(element).text();
- 
-});
 
+json.section="Technology";
 var list = [];
-$('div[class^="column zn__column--idx-4"]').find('ul > article > div > div > a >img').each(function (index, element) {
-  json.main_img=$(element).attr('data-src-medium');
+$('div[class^="item-container ob-recIdx-0"]').find('div >img').each(function (index, element) {
+  json.main_img=$(element).attr('src');
 });
 
 var i=0;
 
-$('div[class^="column zn__column--idx-4"]').find('ul > article > div > div > h3 > a ').each(function (index, element) {
-	var titles_links={section:"politics",main_img:json.main_img,id:"",link:"",title:"",author:"",release:"",source:"",content:""};
+$('a[class^="item-link-container"]').each(function (index, element) {
+	var titles_links={section:"tech",main_img:json.main_img,id:"",link:"",title:"",author:"",release:"",source:"",content:""};
   titles_links.id=i++;
-  titles_links.title=$(element).children('.cd__headline-text').text();
-  titles_links.link="http://www.cnn.com"+$(element).attr('href');
+  titles_links.title=$(element).children('.strip-rec-link-title ob-tcolor').text();
+  titles_links.link=$(element).attr('href');
  titles_links_arr.push(titles_links);
  
  request(titles_links.link, function(error, response, html){
@@ -379,7 +376,7 @@ $('div[class^="column zn__column--idx-0"]').find('ul > article > div > div > h3 
   var titles_links={section:"sports",main_img:json.main_img,id:"",link:"",title:"",author:"",release:"",source:"",content:""};
   titles_links.id=i++;
   titles_links.title=$(element).children('.cd__headline-text').text();
-  titles_links.link="http://www.cnn.com"+$(element).attr('href');
+  titles_links.link=$(element).attr('href');
  titles_links_arr.push(titles_links);
  
  request(titles_links.link, function(error, response, html){
@@ -389,7 +386,7 @@ $('div[class^="column zn__column--idx-0"]').find('ul > article > div > div > h3 
 var page_var = { link : "", author: "",release:"", body:"" };
    
 
-    page('.metadata__byline__author').filter(function(){
+    page('.name').filter(function(){
         var data = $(this);
         title = data.text();            
        
@@ -397,31 +394,26 @@ var page_var = { link : "", author: "",release:"", body:"" };
         titles_links.author=title;
        // json.release = release;
     })
-    page('.update-time').filter(function(){
+    page('.date').filter(function(){
         var data = $(this);
         titles_links.release = data.text();            
       
        
     })
   
-    page('.el-editorial-source').filter(function(){
+    page('.title').filter(function(){
         var data = $(this);
         titles_links.source = data.text();            
       
         
     })
-    page('p[class=zn-body__paragraph]').filter(function(){
+    page('p[class=htmlElement]').filter(function(){
         var data = $(this);
         titles_links.content = data.text();            
      
        
     })
-  page('div[class=zn-body__paragraph]').filter(function(){
-        var data = $(this);
-        titles_links.content = titles_links.content+data.text();            
-     
-       
-    })
+
 
    
 
