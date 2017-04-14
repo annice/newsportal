@@ -134,7 +134,7 @@ $('a[class^="item-link-container"]').each(function (index, element) {
 var page_var = { link : "", author: "",release:"", body:"" };
    
 
-    page('.metadata__byline__author').filter(function(){
+    page('.byline').filter(function(){
         var data = $(this);
         title = data.text();            
        
@@ -142,31 +142,26 @@ var page_var = { link : "", author: "",release:"", body:"" };
         titles_links.author=title;
        // json.release = release;
     })
-    page('.update-time').filter(function(){
+    page('.cnnDateStamp').filter(function(){
         var data = $(this);
         titles_links.release = data.text();            
       
        
     })
   
-    page('.el-editorial-source').filter(function(){
+    page('.soc-twtname').filter(function(){
         var data = $(this);
         titles_links.source = data.text();            
       
         
     })
-    page('p[class=zn-body__paragraph]').filter(function(){
+    page('h2').filter(function(){
         var data = $(this);
         titles_links.content = data.text();            
      
        
     })
-  page('div[class=zn-body__paragraph]').filter(function(){
-        var data = $(this);
-        titles_links.content = titles_links.content+data.text();            
-     
-       
-    })
+
 
     
    
