@@ -367,7 +367,7 @@ $('div[class^="column zn__column--idx-0"]').find('ul > a > h2').each(function (i
 
 var list = [];
 $('div[class^="column zn__column--idx-0"]').find('ul > article > div > div > a >img').each(function (index, element) {
-  json.main_img=$(element).attr('data-src-medium');
+  json.main_img=$(element).attr('src');
 });
 
 var i=0;
