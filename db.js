@@ -5,7 +5,7 @@ module.exports = function() {
     politics1: require('./crawler/politics1.json'),
 	politics2: require('./crawler/politics2.json'),
     politics3: require('./crawler/politics3.json'),
-	//politics4: require('./crawler/politics4.json'),
+	politics4: require('./crawler/politics4.json'),
 	travel0: require('./crawler/travel0.json'),
     travel1: require('./crawler/travel1.json'),
 	travel2: require('./crawler/travel2.json'),
@@ -19,8 +19,6 @@ module.exports = function() {
 	health0: require('./crawler/health0.json'),
 	health1: require('./crawler/health1.json'),
 	health2: require('./crawler/health2.json'),
-	//health3: require('./crawler/health3.json'),
-	//health4: require('./crawler/health4.json'),
 	faithreligion0: require('./crawler/faithreligion0.json'),
 	faithreligion1: require('./crawler/faithreligion1.json'),
 	faithreligion2: require('./crawler/faithreligion2.json'),
@@ -29,7 +27,18 @@ module.exports = function() {
 	entertainment0: require('./crawler/entertainment0.json'),
 	entertainment1: require('./crawler/entertainment1.json'),
 	entertainment2: require('./crawler/entertainment2.json'),
-	entertainment3: require('./crawler/entertainment3.json')
+	entertainment3: require('./crawler/entertainment3.json'),
+	entertainment4: require('./crawler/entertainment4.json'),
+	sport0: require('./crawler/sport0.json'),
+	sport1: require('./crawler/sport1.json'),
+	sport2: require('./crawler/sport2.json'),
+	sport3: require('./crawler/sport3.json'),
+	sport4: require('./crawler/sport4.json'),
+	tech0: require('./crawler/tech0.json'),
+	tech1: require('./crawler/tech1.json'),
+	tech2: require('./crawler/tech2.json'),
+	tech3: require('./crawler/tech3.json'),
+	tech4: require('./crawler/tech4.json')
 
 
 	

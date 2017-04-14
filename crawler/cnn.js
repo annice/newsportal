@@ -123,7 +123,12 @@ var i=0;
 $('a[class^="item-link-container"]').each(function (index, element) {
 	var titles_links={section:"tech",main_img:json.main_img,id:"",link:"",title:"",author:"",release:"",source:"",content:""};
   titles_links.id=i++;
-  titles_links.title=$(element).children('.strip-rec-link-title ob-tcolor').text();
+  
+  
+  $(element).find('div > div >img').each(function (index, element) {
+  titles_links.title=$(element).attr('alt');
+});
+  
   titles_links.link=$(element).attr('href');
  titles_links_arr.push(titles_links);
  
